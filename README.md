@@ -1,6 +1,6 @@
 # Signup Form
 
-A simple and responsive **Signup Form** built using **HTML, CSS, and JavaScript**. This project allows users to enter their details, toggle password visibility, and provides a clean and user-friendly interface.
+A simple and responsive **Signup Form** built using **HTML, CSS, and JavaScript**. This project allows users to enter their details, toggle password visibility, and provides a clean and user-friendly interface. 
 
 ##  Features
 
