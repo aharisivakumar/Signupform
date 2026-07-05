@@ -20,7 +20,7 @@ A simple and responsive **Signup Form** built using **HTML, CSS, and JavaScript*
 * JavaScript (DOM Manipulation)
 
 ##  How It Works
-link - [https://aharisivakumar.github.io/Signupform/]
+link -  [https://aharisivakumar.github.io/Signupform/]
 
 1. Open the project in your browser.
 2. Enter your Name, Email, and Password.
